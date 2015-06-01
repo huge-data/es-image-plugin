@@ -1,19 +1,7 @@
 
 ## ES图片搜索插件
 
-The Image Plugin is an Content Based Image Retrieval Plugin for Elasticsearch using [LIRE (Lucene Image Retrieval)](https://code.google.com/p/lire/). It allows users to index images and search for similar images.
-
-It adds an `image` field type and an `image` query
-
-In order to install the plugin, simply run: `bin/plugin -install info.hb/elasticsearch-image/1.2.0`.
-
-|     Image Plugin          |  elasticsearch    | Release date |
-|---------------------------|-------------------|:------------:|
-| 1.3.0-SNAPSHOT (master)   | 1.1.0             |              |
-| 1.2.0                     | 1.0.1             | 2014-03-20   |
-| 1.1.0                     | 1.0.1             | 2014-03-13   |
-| 1.0.0                     | 1.0.1             | 2014-03-05   |
-
+> 基于Java实现。
 
 ## 示例
 
